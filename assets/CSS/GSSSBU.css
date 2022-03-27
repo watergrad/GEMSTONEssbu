@@ -58,7 +58,29 @@ h3 {
 }
 
 @media screen and (max-width: 501px) {
+    .indented {
+        position:relative; left:0%
+    }
+    .leftsub {
+        text-align:center;
+        font-size:150%;
+    }
     #titletext {
         font-size: 300%;
+    }
+    #leftmost {
+        text-align: center;
+    }
+    #logocharacter {
+        width: 50px; 
+        float: left; 
+        margin-right: 2%;
+        display:inline; 
+    }
+    #teamaff {
+        width: 50px; 
+        float: right; 
+        margin-right: 2%;
+        display:inline; 
     }
 }
