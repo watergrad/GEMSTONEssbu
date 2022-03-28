@@ -1,3 +1,21 @@
+p{
+    margin-left:5%;
+    margin-right:5%;
+    max-width: 95%;
+}
+a{
+    text-decoration: none;
+    font-size:120%;
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color:white;
+}
+a:hover{
+    color:rgb(114, 139, 202)
+}
 .banner {
     background:linear-gradient(45deg,rgb(59, 109, 202),rgb(17, 26, 63));
     color: rgb(204, 230, 255);
@@ -5,12 +23,23 @@
     padding-top: 5%;
     padding-bottom: 5%;
 }
+.footer {
+    background:linear-gradient(45deg,rgb(59, 109, 202),rgb(17, 26, 63));
+    color: rgb(204, 230, 255);
+    font-size: large;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: left;
+}
 .leftsub {
     text-align:left;
     font-size:200%;
 }
 .indented {
-    position:relative; left:8%
+    position:relative; left:8%;
+}
+.tophyperlinks{
+    display:inline;
 }
 #titletext {
     font-size: 600%;
@@ -58,6 +87,9 @@ h3 {
 }
 
 @media screen and (max-width: 501px) {
+    .tophyperlinks{
+        display:grid;
+    }
     .indented {
         position:relative; left:0%
     }
@@ -88,5 +120,13 @@ h3 {
         float: right; 
         margin-right: 4%;
         display:inline; 
+    }
+    .footer {
+        background:linear-gradient(45deg,rgb(59, 109, 202),rgb(17, 26, 63));
+        color: rgb(204, 230, 255);
+        font-size: large;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        text-align: center;
     }
 }
