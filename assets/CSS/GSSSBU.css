@@ -200,6 +200,9 @@ h3 {
     #imageright{
         display:none;
     }
+    #membertitletext {
+        font-size: 200%;
+    }
     .footer {
         background:linear-gradient(45deg,rgb(59, 109, 202),rgb(17, 26, 63));
         color: rgb(204, 230, 255);
