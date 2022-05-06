@@ -178,6 +178,9 @@ a:hover{
 #leftmost {
     text-align: left;
 }
+#rightmost {
+    text-align: right;
+}
 #centeredtext{
     text-align: center;
 }
