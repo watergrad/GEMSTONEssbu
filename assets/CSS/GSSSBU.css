@@ -17,7 +17,7 @@ a:hover{
     color:rgb(114, 139, 202)
 }
 .banner {
-    background:linear-gradient(45deg,rgb(59, 109, 202),rgb(17, 26, 63));
+    background:linear-gradient(45deg,rgb(51, 130, 184),rgb(19, 58, 165));
     color: rgb(204, 230, 255);
     font-size: large;
     padding-top: 5%;
@@ -52,7 +52,7 @@ a:hover{
     width: 45%;
     height: 50px;
     font-family:'Roboto Slab';
-    background-color:rgb(175, 255, 250);
+    background-color:rgb(61, 76, 167);
     border: double;
     color: rgb(17, 26, 63);
     text-align: center;
@@ -76,12 +76,124 @@ a:hover{
     font-size: 16px;
     transition-duration: 0.4s;
 }
+.button3{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(65, 155, 140);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.button4{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(194, 55, 97);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.button5{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(104, 41, 41);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.button6{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(119, 177, 96);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.button7{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(91, 195, 255);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.button8{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(75, 75, 75);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.button9{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(255, 109, 109);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.button10{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(65, 92, 60);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
 .button1:hover{
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     width: 50%;
     height: 50px;
     font-family:'Roboto Slab';
-    background-color:rgb(175, 255, 250);
+    background-color:rgb(61, 76, 167);
     border: double;
     color: rgb(17, 26, 63);
     text-align: center;
@@ -96,6 +208,118 @@ a:hover{
     height: 50px;
     font-family:'Roboto Slab';
     background-color:whitesmoke;
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button3:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(65, 155, 140);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button4:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(194, 55, 97);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button5:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(104, 41, 41);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button6:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(119, 177, 96);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button7:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(91, 195, 255);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button8:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(75, 75, 75);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button9:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(255, 109, 109);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.button10:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(65, 92, 60);
     border: double;
     color: rgb(17, 26, 63);
     text-align: center;
