@@ -3,18 +3,19 @@ p{
     margin-right:5%;
     max-width: 95%;
 }
-a{
+.stagehyperlinks {
     text-decoration: none;
     font-size:120%;
+    color:white
 }
-a:link{
-    color:white;
-}
-a:visited{
-    color:white;
-}
-a:hover{
+.stagehyperlinks:hover {
     color:rgb(114, 139, 202)
+}
+.stagehyperlinks:link {
+    color:white;
+}
+.stagehyperlinks:link {
+    color:white;
 }
 .banner {
     background:linear-gradient(45deg,rgb(51, 130, 184),rgb(19, 58, 165));
@@ -376,6 +377,34 @@ a:hover{
     height: 50px;
     font-family:'Roboto Slab';
     background-color:rgb(102, 91, 53);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.buttonY{
+    width: 45%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(194, 55, 97);
+    border: double;
+    color: rgb(17, 26, 63);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.buttonY:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    width: 50%;
+    height: 50px;
+    font-family:'Roboto Slab';
+    background-color:rgb(194, 55, 97);
     border: double;
     color: rgb(17, 26, 63);
     text-align: center;
